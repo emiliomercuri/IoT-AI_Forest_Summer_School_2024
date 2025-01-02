@@ -8,3 +8,8 @@ The workshop was divided in two parts:
 2. EMÜ/Tartu 21. – 23. August 2024
   
 Instructors: Steffen Manfred Noe, Ulrich Norbisrath, Emilio Mercuri
+
+More info you can find here:
+- https://www.doktorikool.ee/en/uritused/data-science-and-ai-in-forest-ecosystem-atmosphere-interactions/
+- https://smear.emu.ee/smear.php?page=events
+  
